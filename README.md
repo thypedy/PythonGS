@@ -44,6 +44,7 @@ O objetivo do projeto é fornecer uma interface simples e interativa para os usu
 ## Requisitos
 - Python 3.11 ou superior
 - Bibliotecas padrão do Python: `tkinter`, `messagebox`
+- Não é preciso instalar nenhuma biblioteca a cima
 
 ## Dependências
 - Não há dependências externas para este projeto, além das bibliotecas padrão do Python.
@@ -54,7 +55,7 @@ O objetivo do projeto é fornecer uma interface simples e interativa para os usu
 3. Abra o terminal ou prompt de comando na pasta onde o arquivo Python está localizado.
 4. Execute o código com o comando:
    ```bash
-   python Python.py
+   python PythonGS.py
 ## Detalhes Técnicos
 
 ### Cálculo da Energia
