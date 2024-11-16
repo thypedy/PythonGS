@@ -62,7 +62,7 @@ O objetivo do projeto é fornecer uma interface simples e interativa para os usu
 
 A energia gerada é calculada utilizando a seguinte fórmula:
 
-![Imagem Calculo](./caminho/para/imagem.jpg)
+![Imagem Calculo](./calculi.jpg)
 
 Onde:
 
