@@ -62,9 +62,7 @@ O objetivo do projeto é fornecer uma interface simples e interativa para os usu
 
 A energia gerada é calculada utilizando a seguinte fórmula:
 
-\[
-\text{Energia} = \frac{\text{PCI} \times \text{Eficiência} \times \text{Quantidade}}{\text{Conversão MJ/kWh}}
-\]
+![Imagem Calculo](./caminho/para/imagem.jpg)
 
 Onde:
 
