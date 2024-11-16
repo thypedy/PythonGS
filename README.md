@@ -1,8 +1,9 @@
 # README - Calculadora de Energia Renovável a partir de Biomassa
 
 ## Pesquisa Bibliográfica
--[Energia dos resíduos](https://web.bndes.gov.br/bib/jspui/bitstream/1408/2523/1/A%20BS%2033%20Perspectivas%20do%20setor%20de%20biomassa%20de%20madeira%20para%20a%20geração%20de%20energia_P.pdf)
--[Formula do calculo](https://www3.epa.gov/ttn/atw/utility/fnl_biomass_cogen_TSD_04_19_07.pdf)
+- [Energia dos resíduos](https://web.bndes.gov.br/bib/jspui/bitstream/1408/2523/1/A%20BS%2033%20Perspectivas%20do%20setor%20de%20biomassa%20de%20madeira%20para%20a%20geração%20de%20energia_P.pdf)
+  
+- [Formula do calculo](https://www3.epa.gov/ttn/atw/utility/fnl_biomass_cogen_TSD_04_19_07.pdf)
 
 ## Descrição do Projeto
 Este projeto é uma **calculadora de energia renovável** que permite calcular a quantidade de energia gerada a partir de diferentes tipos de biomassa. Utiliza dados de poder calorífico inferior (PCI) para diferentes tipos de biomassa e um valor de eficiência fixa de 30%. A aplicação fornece funcionalidades para:
